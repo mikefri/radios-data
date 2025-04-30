@@ -1,0 +1,172 @@
+[
+    {
+    name: "NRJ",
+    genre: "Pop",
+    url: "https://scdn.nrjaudio.fm/adwz2/fr/30001/mp3_128.mp3?origine=fluxradios",
+    img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4dR-c6_HhvB6sIdaXn7JUBwNkylv431eu5SK38Aji3Gysd1mLx4XJfPslA0YRr4sZUwlUtw5-4vc4MMw1nkpeROc1F-N5VYQRWVS3ix1F5ItWlX_iGixJQXe1DOX0na00knCKT_suNbE/s1600/NRJ+Belgique.png"
+  },
+  {
+    name: "RFM",
+    genre: "Pop-Rock",
+    url: "http://rfm.lmn.fm/rfm.mp3",
+    img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWodh0io735XHyRmx721R0cM8UcJmizCziPLLdzMxu5vvFRB-EvAwy2JgxNqyjGlNAG1RAaHIxd-Qei2Z95paic7Ptpyy44kbZpS4IlkoNGD6DObdMUB_GHYTbTHlbna-wu2Wu0be92aY/s400/RFM+%253B+%2528001%2529.jpg"
+  },
+  {
+    name: "RTL2",
+    genre: "Rock",
+    url: "http://icecast.rtl2.fr/rtl2-1-44-128?listen=webCwsBCggNCQgLDQUGBAcGBg",
+    img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifZHhnthtTWYQMM4C5hkPJA3CKuDz4NWHyecWU1wiEooDStcDE-FINEdCU6mmwWVBN9CI1_eOCKhGEQ6Zbo5s3JcRV6jYlaXnvqexwJEKHSnW3TrDHpfoEDWFEpzvPb_l7oW9IlySTr0g/s400/RTL2+%253B+%2528001%2529.jpg"
+  },
+  {
+    name: "Skyrock",
+    genre: "Rap/Hip-Hop",
+    url: "http://icecast.skyrock.net/s/natio_aac_128k",
+    img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO6Df6ClBQFb_yNW_cwVVgpbnkjDYJxcYmC8n8yRY9kcAqCIwFSKdvoilZ3SQ8ggMeZ0kbmIiN93Dj0ojZXm503X2rXXB9V_v1V77pyiuUaT-tUZsK56oEXj_SSDkPlMvI-724Hp9mpU8/s400/Skyrock+%253B+%2528001%2529.jpg"
+  },
+  {
+    name: "France Inter",
+    genre: "Talk/Infos",
+    url: "http://icecast.radiofrance.fr/franceinter-midfi.mp3",
+    img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioubVtnfxlsPt3A9ZtiOz4-ew-_2L5e9xb_ympRSJ-SytW5stIUd-UY0K_qLJT34tj-Wx0y9xgAiPSOeAywut6XtmCJyuoa45gXGa4tbiUOmXrB-P-Mj8cdFtugkqC0-X-nqy142_WfmQ/s1600/France+Inter+%253B+%2528001%2529.jpg"
+  },
+  {
+    name: "RMC",
+    genre: "Talk/Infos",
+    url: "http://audio.bfmtv.com/rmcradio_128.mp3",
+    img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU2MAvm4uDEEq68JtYip9pytibdWMGFzOwWXZnFOEXkX3vx5C0kkoOD4_mgo5c2m18p9l7jXVH-KrI2F1s0it5AEaSNdsdEiaeCFCV6x53ZLTJG9Y-xaFAQAiBAZHCcRSlY-EO1SKIFoc/s1600/RMC+%253B+%2528001%2529.jpg"
+  },
+  {
+    name: "Chérie FM",
+    genre: "Love Songs",
+    url: "https://scdn.nrjaudio.fm/adwz2/fr/30201/mp3_128.mp3?origine=fluxradios",
+    img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijvYRcXKYnSqRtWBa_8655lK2M8KCHTMyDBCYKyBwYQsPr9-BwSuDguvmusotbNqww0R_XbJdzLNWP2IRWSP3FOtkGDeN6AqYcrAUaMoxcbW3maGKmRg1Bn5cgN8bBf5116NiQbo3AbCk/s400/Ch%25C3%25A9rie+FM+%253B+%2528001%2529.png"
+  },
+  {
+    name: "Nostalgie",
+    genre: "Années 80/90",
+    url: "https://scdn.nrjaudio.fm/adwz2/fr/30601/mp3_128.mp3?origine=fluxradios",
+    img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0lHAQ-kiXKekBl6PIptMsyKS6_tfBrDASB4ren0Ue_8kp8YyqD_3UImYzAR2c6MOXGh3kSsJGQz2ZmkQoNA-VJtZfvG8UIVWLtE1rJ0ORtNsRQd8bha0zVhD-ja8cWEvVvwatxhwZ217IXvJ3_LDS6ex0rLERYrRTGjHpQBZdxH15sVhrLDzJYPMqdio/s1600/Nostalgie%202024.png"
+  },
+  {
+    name: "Fun Radio France",
+    genre: "Dance",
+    url: "http://streaming.radio.funradio.fr/fun-1-44-128?listen=webCwsBCggNCQgLDQUGBAcGBg",
+    img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHeV1nblJYhHyOIcHa1X7dEqyTLnPRK1GC-FsdqxxzED9I6TB_eajTjlrgTEN9zwi1CDZjWfsXCQqGLkyc5ql9ux_U2YJ4nMLAQHiZL99dwpPciZe1WGpQ2lZ2yQ5IFz6TCuz9pVnkcPI/s400/Fun+Radio+Belgique.png"
+  },
+  {
+    name: "Rire & Chansons",
+    genre: "Humour",
+    url: "https://scdn.nrjaudio.fm/adwz2/fr/30401/mp3_128.mp3?origine=fluxradios",
+    img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGWS9NbCImI7idJJDHd3tGX91RdXSD9G37hAd88aeKqIICGKn7OoXYBCuqNys7KVJ3U4kIgJ8Up2HzVwSV-wTd2VbyqV8VsA3Nw5ygL6BlIA-BsEmSS2MgmHMxGr-2eB9kghTK1fiaBkVXp9YCuVEzodvljacwe7jNf_8iBku6VLN6eUHJw1TA605CdB0/s1600/Rire%20&%20Chanson%202024.png"
+  },
+  {
+    name: "Europe 1",
+    genre: "Talk/Infos",
+    url: "http://europe1.lmn.fm/europe1.mp3",
+    img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfhQAi3OKlS19r-HDrT112MOG-yctEyeeDefYeFGP7ag0qee_S1xWmpvG0EF1WPKSTX44a3pr50KbNZyrDUSe32JHO_wxLJBBcwNI7X9UJrrhgg_0VOmpXj2Y5fYJJtwAEgewc2UfH4bY/s1600/Europe+1+%253B+%2528001%2529.jpg"
+  },
+  {
+    name: "Europe 2",
+    genre: "Pop-Rock",
+    url: "http://europe2.lmn.fm/europe2.mp3",
+    img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizyvkNOVtojUSKJDEBcZQyF4r33Vvw2frxhLzrZFovqBo3QFQPBM-di28Ri0eizlyp1hYUVASWGLH24WkPLI3hEkVbKRp7xxvDymBNWyLKDVogQMZqjzSee-jySWgfVni08ce908cUqvyERSXI5aehYd6IrtDyHPF9VlE9UkVJvjUg8yPYjSyqBwTp/s1600/Blog%20-%20Europe%202%20;%20%28001%29%20;%20%282023-01%29.png"
+  },
+  {
+    name: "Mouv'",
+    genre: "Rap/Hip-Hop",
+    url: "https://icecast.radiofrance.fr/mouv-midfi.mp3",
+    img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBjg9_t-do39FOJ7SruxYQKQlwCUs5sGtwhVa4grP-GzH-tWO_rnzxEekH8mfZx-B2ziqtFFnFP-4HeEcVtzLLW07griUKbhvAg9OrdE0XK_P7MWSjc3RheMVGlVNiecaG_j9RmIQZm_c/s400/Mouv%2527+%253B+%2528001%2529.jpg"
+  },
+  {
+    name: "Virgin Radio",
+    genre: "Rock/Alternatif",
+    url: "https://virginradio.ice.infomaniak.ch/virgin-radio.mp3",
+    img: "https://static.mytuner.mobi/media/tvos_radios/977/virgin-radio-fr.8dcbd5a1.jpg"
+  },
+  {
+    name: "France Info",
+    genre: "Infos",
+    url: "http://icecast.radiofrance.fr/franceinfo-midfi.mp3",
+    img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsR7BPRguEJYenvxq1rBx0CaYbdpFMOX2YOD7AcVyLACrm5mzJUDK9uq5mVyDUEhtlWqanG_tn1UNJx_ZYOHbSFVwgtbS789qOyflOK1FlwCM6XbhtR4_beUwrQ-Cv0METws07cP-qUnc/s1600/France+Info+%253B+%2528001%2529.png"
+  },
+  {
+    name: "100% Radio 90",
+    genre: "Années 90",
+    url: "http://100radio-90.ice.infomaniak.ch/100radio-90-128.mp3",
+    img: "https://static.mytuner.mobi/media/tvos_radios/672/love-90s-portugal.6f1135d3.png"
+  },
+  {
+    name: "Vibration Nevers",
+    genre: "Hits",
+    url: "http://webvib-nevers.ice.infomaniak.ch/webvib-nevers-128.mp3",
+     img: "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/vibration/radiostream/LW3ltlq93x/altCover_umHItVjopy.jpeg"
+  },
+  {
+    name: "NRJ Nevers",
+    genre: "Hits",
+    url: "http://cdn.nrjaudio.fm/audio1/fr/40140/aac_64.mp3",
+     img: "https://media.licdn.com/dms/image/v2/C4D22AQF2YuaQ-PzJ0Q/feedshare-shrink_800/feedshare-shrink_800/0/1626949599220?e=2147483647&v=beta&t=rJMXwZGu5VYmXCsEuOg-EHO3lDSivlir3zivpS3gik4"
+  },
+  {
+    name: "Flaixbac",
+    genre: "Hits",
+    url: "https://stream.flaixbac.cat/icecast",
+     img: "https://play-lh.googleusercontent.com/2E50SSdNxPhUNpY24wxxoebsqvdVtGVZau1i-PSnY4wd270y8FBKq5Ok1rKgQIrXAfY"
+  },
+  {
+  name: "Ibiza Global",
+  genre: "Hits",
+  url: "http://ibizaglobalradio.streaming-pro.com:8024/;",
+  img: "https://images.openai.com/thumbnails/d19fd5a109a896b2b37c5c587c9ed64e.png"
+  },
+  {
+  name: "Classic 21",
+  genre: "Rock",
+  url: "http://radio.rtbf.be/c21/mp3-160/fl",
+  img: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/RTBF_Classic_21_logo.svg/1200px-RTBF_Classic_21_logo.svg.png"
+  },
+  {
+  name: "BFM Business",
+  genre: "Talk/Infos",
+  url: "https://audio.bfmtv.com/bfmbusiness_128.mp3",
+  img: "https://www.radio.fr/300/bfm.png?version=d5c78b7cc14fe545d63a15e9fd0a3aae"
+  },
+  {
+  name: "BFM Radio",
+  genre: "Talk/Infos",
+  url: "http://audio.bfmtv.com/bfmradio_128.mp3",
+  img: "https://www.radio.fr/300/bfmtv.png?version=c36a039963d5d184a3ea84fa69648205"
+  },
+  {
+  name: "Radio FG",
+  genre: "Electro/House",
+  url: "https://radiofg.impek.com/fg",
+  img: "https://images.lesindesradios.fr/fit-in/1100x2000/filters:format(webp)/radios/radiofg/importrk/news/original/606ecd8c43b530.97107544.jpg"
+},
+{
+  name: "FIP",
+  genre: "Eclectique",
+  url: "http://icecast.radiofrance.fr/fip-midfi.mp3",
+  img: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/FIP_logo_2021.svg/1200px-FIP_logo_2021.svg.png"
+},
+{
+  name: "TSF Jazz",
+  genre: "Jazz",
+  url: "http://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3",
+  img: "https://static.mytuner.mobi/media/radios-150px/205/jazz-fm.25b9ebff.png"
+},
+{
+  name: "Radio Nova",
+  genre: "Eclectique",
+  url: "https://novazz.ice.infomaniak.ch/novazz-128.mp3",
+  img: "https://www.radio.fr/300/radionovaie.png?version=1992c4ef7de6451b71d39e5135abcd12"
+},
+
+{
+  name: "Sud Radio",
+  genre: "Talk/Infos",
+  url: "http://start-sud.ice.infomaniak.ch/start-sud-high.mp3",
+  img: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Logo_Sud_Radio_2014.svg/langfr-250px-Logo_Sud_Radio_2014.svg.png"
+}
+
+  ]
