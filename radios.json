@@ -157,6 +157,12 @@
   "img": "https://static.mytuner.mobi/media/radios-150px/205/jazz-fm.25b9ebff.png"
 },
 {
+  "name": "Nevers Fm",
+  "genre": "Hits",
+  "url": "https://hosting.studioradiomedia.fr:2125/stream",
+  "img": "https://www.perrinegoulet.fr/wp-content/uploads/2021/11/259557236_4618977381521718_7681698292286040783_n.jpg"
+},
+{
   "name": "Radio Nova",
  "genre": "Eclectique",
   "url": "https://novazz.ice.infomaniak.ch/novazz-128.mp3",
