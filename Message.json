@@ -1,5 +1,3 @@
     {
-      "message": "🎶 Vous voulez une station en particulier ? Consultez la liste des suggestions populaires !",
-      "type": "poll",
-      "link": "window.location.href='avis.html"
+      "message": "🎶 Une station en particulier ? Cliquez sur "Donner mon avis" ⬇️",
     }
