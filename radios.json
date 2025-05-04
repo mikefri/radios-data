@@ -186,7 +186,14 @@
   "genre": "Infos",
   "url": "https://media.autorouteinfo.fr/direct_sud.mp3",
   "img": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6d/Logo_Autoroute-Info.png/250px-Logo_Autoroute-Info.png"
+},
+{
+  "name": "Bac FM",
+  "genre": "Pop-Rock",
+  "url": "https://streaming.radiobacfm.fr:8443/bacfm",
+  "img": "https://frabfc.fr/app/uploads/2023/07/radio_bacfm.png"
 }
+
 
   ]
 
