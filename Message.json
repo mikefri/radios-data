@@ -1,3 +1,34 @@
 {
-  "message": "🎵 Bienvenue sur Radios Web, la musique sans interruption !"
+  "messages": [
+    {
+      "message": "🎵 Bienvenue sur Radios Web, la musique sans interruption !"
+    },
+    {
+      "message": "🌍 Explorez des radios, à portée de clic !"
+    },
+    {
+      "message": "🎧 Vos stations favorites, disponibles à tout moment, sans publicité !"
+    },
+    {
+      "message": "🔊 Profitez d’une qualité sonore optimale, où que vous soyez !"
+    },
+    {
+      "message": "⭐ Découvrez des genres musicaux variés : Pop, Rock, Jazz, Électro, et plus !"
+    },
+    {
+      "message": "🚀 Pas de compte nécessaire, écoutez immédiatement et gratuitement !"
+    },
+    {
+      "message": "💡 Ajoutez vos stations préférées aux favoris pour un accès rapide."
+    },
+    {
+      "message": "🎶 Des nouveautés chaque jour, à découvrir dans l’app !"
+    },
+    {
+      "message": "📱 Emmenez votre musique partout avec vous, c'est simple et pratique !"
+    },
+    {
+      "message": "🔄 Pas satisfait ? Explorez d’autres stations en quelques secondes !"
+    }
+  ]
 }
