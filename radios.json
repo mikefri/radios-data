@@ -178,13 +178,13 @@
 {
   "name": "Autoroute Info Réseau Centre Est",
   "genre": "Infos",
-  "url": "http://media.autorouteinfo.fr:8000/direct_nord.mp3",
+  "url": "https://media.autorouteinfo.fr/direct_nord.mp3",
   "img": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6d/Logo_Autoroute-Info.png/250px-Logo_Autoroute-Info.png"
 },
 {
   "name": "Autoroute Info Réseau Rhône-Alpes",
   "genre": "Infos",
-  "url": "http://media.autorouteinfo.fr:8000/direct_sud.mp3",
+  "url": "https://media.autorouteinfo.fr/direct_sud.mp3",
   "img": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6d/Logo_Autoroute-Info.png/250px-Logo_Autoroute-Info.png"
 }
 
