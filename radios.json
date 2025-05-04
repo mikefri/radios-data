@@ -174,6 +174,20 @@
   "genre": "Talk/Infos",
   "url": "https://ice.creacast.com/sudradio",
   "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Logo_Sud_Radio_2014.svg/langfr-250px-Logo_Sud_Radio_2014.svg.png"
-}
+},
+{
+  "name": "Autoroute Info Réseau Centre Est",
+  "genre": "Infos",
+  "url": "http://media.autorouteinfo.fr:8000/direct_nord.mp3",
+  "img": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6d/Logo_Autoroute-Info.png/250px-Logo_Autoroute-Info.png"
+},
+{
+  "name": "Autoroute Info Réseau Rhône-Alpes",
+  "genre": "Infos",
+  "url": "http://media.autorouteinfo.fr:8000/direct_sud.mp3",
+  "img": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6d/Logo_Autoroute-Info.png/250px-Logo_Autoroute-Info.png"
+},
 
   ]
+
+
