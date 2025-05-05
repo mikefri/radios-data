@@ -240,9 +240,16 @@
   "genre": "Infos",
   "url": "https://str0.creacast.com/radio_vinci_autoroutes_4",
   "img": "https://cdn-profiles.tunein.com/s141917/images/logoq.png"
+},
+{
+  "name": "Top 90's",
+  "genre": "Hits",
+  "url": "https://90.streeemer.com:8000/radio.aac",
+  "img": "https://static2.mytuner.mobi/media/tvos_radios/672/love-90s-portugal.6f1135d3.png"
 } 
 ]
 
 
 
+https://90.streeemer.com:8000/radio.aac
 
