@@ -246,7 +246,14 @@
   "genre": "Hits",
   "url": "https://90.streeemer.com:8000/radio.aac",
   "img": "https://static2.mytuner.mobi/media/tvos_radios/672/love-90s-portugal.6f1135d3.png"
-} 
+}, 
+ {
+  "name": "Rewind 2000's",
+  "genre": "Hits",
+  "url": "https://2000.streeemer.com/listen/2000s/radio.mp3",
+  "img": "https://static2.mytuner.mobi/media/tvos_radios/677/rewind-2000s.24e9977a.png"
+}    
 ]
+
 
 
