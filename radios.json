@@ -198,8 +198,42 @@
   "genre": "Hits",
   "url": "https://hosting.studioradiomedia.fr:1385/stream",
   "img": "https://www.perrinegoulet.fr/wp-content/uploads/2022/02/logo200.jpg"
-}
-
-
-  ]
+},
+ {
+  "name": "Vinci Autoroutes - Zone Sud Ouest",
+  "genre": "Infos",
+  "url": "https://sc.creacast.com/rva-asf-sud-ouest",
+  "img": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7f/Logo_radio_vinci_autoroutes.svg/1200px-Logo_radio_vinci_autoroutes.svg.png"
+},
+{
+  "name": "Vinci Autoroutes - Strasbourg - A355",
+  "genre": "Infos",
+  "url": "https://sc.creacast.com/rva-a355",
+  "img": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7f/Logo_radio_vinci_autoroutes.svg/1200px-Logo_radio_vinci_autoroutes.svg.png"
+},
+{
+  "name": "Vinci Autoroutes - Zone Ouest Centre",
+  "genre": "Infos",
+  "url": "https://sc.creacast.com/rva-cofiroute-1",
+  "img": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7f/Logo_radio_vinci_autoroutes.svg/1200px-Logo_radio_vinci_autoroutes.svg.png"
+},
+{
+  "name": "Vinci Autoroutes - Zone Méditerranée",
+  "genre": "Infos",
+  "url": "https://sc.creacast.com/rva-asf-sud",
+  "img": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7f/Logo_radio_vinci_autoroutes.svg/1200px-Logo_radio_vinci_autoroutes.svg.png"
+},
+{
+  "name": "Vinci Autoroutes - Zone Alpes Provence",
+  "genre": "Infos",
+  "url": "https://sc.creacast.com/rva-escota-ouest",
+  "img": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7f/Logo_radio_vinci_autoroutes.svg/1200px-Logo_radio_vinci_autoroutes.svg.png"
+},
+{
+  "name": "Vinci Autoroutes - Zone Grand Ouest",
+  "genre": "Infos",
+  "url": "https://sc.creacast.com/rva-asf-ouest-atlantique",
+  "img": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7f/Logo_radio_vinci_autoroutes.svg/1200px-Logo_radio_vinci_autoroutes.svg.png"
+}   
+]
 
