@@ -187,6 +187,14 @@
   "url": "https://hosting.studioradiomedia.fr:1385/stream",
   "img": "https://www.perrinegoulet.fr/wp-content/uploads/2022/02/logo200.jpg"
 },
+
+{
+  "name": "Impact FM - Années 80",
+  "genre": "Hits",
+  "url": "https://impactfmannees80.ice.infomaniak.ch/impactfmannees80-64.aac",
+  "img": "https://static2.mytuner.mobi/media/tvos_radios/730/impact-annees-80.9d763eac.jpg"
+},
+    
 {
   "name": "Top 90's",
   "genre": "Hits",
