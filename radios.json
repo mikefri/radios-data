@@ -134,6 +134,12 @@
   "img": "https://images.openai.com/thumbnails/d19fd5a109a896b2b37c5c587c9ed64e.png"
   },
   {
+  "name": "Hits 1 Ibiza",
+  "genre": "Hits",
+  "url": "https://hits1spain-audiomediaradio.radioca.st/hits1mallorca",
+  "img": "https://www.hits1radio.com/wp-content/uploads/2019/03/dummy-e1554135926529.jpg"
+  },  
+  {
   "name": "Classic 21",
   "genre": "Rock",
   "url": "https://radio.rtbf.be/c21/mp3-160",
