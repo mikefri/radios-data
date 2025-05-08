@@ -15,7 +15,7 @@
     {
     "name": "NRJ",
     "genre": "Pop",
-    "url": "https://scdn.nrjaudio.fm/adwz2/fr/30001/mp3_128.mp3?origine=fluxradios",
+    "url": "https://scdn.nrjaudio.fm/adwz2/fr/30001/mp3_128.mp3",
     "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4dR-c6_HhvB6sIdaXn7JUBwNkylv431eu5SK38Aji3Gysd1mLx4XJfPslA0YRr4sZUwlUtw5-4vc4MMw1nkpeROc1F-N5VYQRWVS3ix1F5ItWlX_iGixJQXe1DOX0na00knCKT_suNbE/s1600/NRJ+Belgique.png"
   },
   {
@@ -33,7 +33,7 @@
     {
     "name": "RTL",
     "genre": "Rock",
-    "url": "https://icecast.rtl.fr/rtl-1-44-128?listen=webCwsBCggNCQgLDQUGBAcGBg",
+    "url": "https://icecast.rtl.fr/rtl-1-44-128",
     "img": "https://upload.wikimedia.org/wikipedia/commons/archive/5/51/20220805214515%21RTL_logo.svg"
   },
   {
@@ -57,25 +57,25 @@
   {
     "name": "Chérie FM",
     "genre": "Love Songs",
-    "url": "https://scdn.nrjaudio.fm/adwz2/fr/30201/mp3_128.mp3?origine=fluxradios",
+    "url": "https://scdn.nrjaudio.fm/adwz2/fr/30201/mp3_128.mp3",
     "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijvYRcXKYnSqRtWBa_8655lK2M8KCHTMyDBCYKyBwYQsPr9-BwSuDguvmusotbNqww0R_XbJdzLNWP2IRWSP3FOtkGDeN6AqYcrAUaMoxcbW3maGKmRg1Bn5cgN8bBf5116NiQbo3AbCk/s400/Ch%25C3%25A9rie+FM+%253B+%2528001%2529.png"
   },
   {
     "name": "Nostalgie",
     "genre": "Années 80/90",
-    "url": "https://scdn.nrjaudio.fm/adwz2/fr/30601/mp3_128.mp3?origine=fluxradios",
+    "url": "https://scdn.nrjaudio.fm/adwz2/fr/30601/mp3_128.mp3",
     "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0lHAQ-kiXKekBl6PIptMsyKS6_tfBrDASB4ren0Ue_8kp8YyqD_3UImYzAR2c6MOXGh3kSsJGQz2ZmkQoNA-VJtZfvG8UIVWLtE1rJ0ORtNsRQd8bha0zVhD-ja8cWEvVvwatxhwZ217IXvJ3_LDS6ex0rLERYrRTGjHpQBZdxH15sVhrLDzJYPMqdio/s1600/Nostalgie%202024.png"
   },
   {
     "name": "Fun Radio France",
     "genre": "Dance",
-    "url": "https://streaming.radio.funradio.fr/fun-1-44-128?listen=webCwsBCggNCQgLDQUGBAcGBg",
+    "url": "https://streaming.radio.funradio.fr/fun-1-44-128",
     "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHeV1nblJYhHyOIcHa1X7dEqyTLnPRK1GC-FsdqxxzED9I6TB_eajTjlrgTEN9zwi1CDZjWfsXCQqGLkyc5ql9ux_U2YJ4nMLAQHiZL99dwpPciZe1WGpQ2lZ2yQ5IFz6TCuz9pVnkcPI/s400/Fun+Radio+Belgique.png"
   },
   {
     "name": "Rire & Chansons",
     "genre": "Humour",
-    "url": "https://scdn.nrjaudio.fm/adwz2/fr/30401/mp3_128.mp3?origine=fluxradios",
+    "url": "https://scdn.nrjaudio.fm/adwz2/fr/30401/mp3_128.mp3",
     "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGWS9NbCImI7idJJDHd3tGX91RdXSD9G37hAd88aeKqIICGKn7OoXYBCuqNys7KVJ3U4kIgJ8Up2HzVwSV-wTd2VbyqV8VsA3Nw5ygL6BlIA-BsEmSS2MgmHMxGr-2eB9kghTK1fiaBkVXp9YCuVEzodvljacwe7jNf_8iBku6VLN6eUHJw1TA605CdB0/s1600/Rire%20&%20Chanson%202024.png"
   },
   {
@@ -118,7 +118,7 @@
   {
     "name": "NRJ Nevers",
     "genre": "Hits",
-    "url": "https://scdn.nrjaudio.fm/adwz2/fr/30001/mp3_128.mp3?origine=fluxradios",
+    "url": "https://scdn.nrjaudio.fm/adwz2/fr/30001/mp3_128.mp3",
     "img": "https://media.licdn.com/dms/image/v2/C4D22AQF2YuaQ-PzJ0Q/feedshare-shrink_800/feedshare-shrink_800/0/1626949599220?e=2147483647&v=beta&t=rJMXwZGu5VYmXCsEuOg-EHO3lDSivlir3zivpS3gik4"
   },
   {
@@ -136,7 +136,7 @@
   {
   "name": "Classic 21",
   "genre": "Rock",
-  "url": "https://radio.rtbf.be/c21/mp3-160/fl",
+  "url": "https://radio.rtbf.be/c21/mp3-160",
   "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/RTBF_Classic_21_logo.svg/1200px-RTBF_Classic_21_logo.svg.png"
   },
   {
@@ -217,7 +217,7 @@
  {
   "name": "NRJ REGGAE",
   "genre": "Reggae",
-  "url": "https://scdn.nrjaudio.fm/adwz1/fr/30075/mp3_128.mp3?aw_0_1st.station=NRJ-Reggae&origine=mytuner",
+  "url": "https://scdn.nrjaudio.fm/adwz1/fr/30075/mp3_128.mp3",
   "img": "https://static2.mytuner.mobi/media/tvos_radios/311/nrj-reggae.d633c30d.jpg"
 },   
  {
