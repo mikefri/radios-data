@@ -6,7 +6,12 @@
     "url": "https://icy.unitedradio.it/um1029.mp3",
     "img": "https://static2.mytuner.mobi/media/tvos_radios/137/guns-n-roses-fans.8e0beeca.jpg"
   },
-    
+    {
+    "name": "FM GUNS 'N' ROSES",
+    "genre": "Rock",
+    "url": "http://stream.regenbogen2.de/gunsnroses/mp3-128",
+    "img": "https://image.atsw.de/atsw/production/2024-05/rockfm_guns_n_roses_600x600.jpg"
+  },
     {
     "name": "NRJ",
     "genre": "Pop",
